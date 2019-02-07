@@ -16,6 +16,11 @@ Key outcomes of the analysis are the recommendations for future marketing campai
 * The customer's age affects campaign outcome as well. Future campains should concentrate on customers from age categories below 30 years old and above 50 years old.
 * Number of contacts with the customer during the campaign is also very important. The number of contacts with the customer shouldn't exceed 4.
 
+## Repository contents
+1. Bank Marketing Analysis.ipynb - Jupyter Notebook (Python 3) which contains code for the analysis.
+2. bank.csv - dataset used for the analysis.
+3. rawpixel-594763-unsplash.jpg - image, used in the Jupyter Notebook.
+
 ## External references
 1. __[Dataset on kaggle](https://www.kaggle.com/janiobachmann/bank-marketing-dataset)__
 2. __[Kaggle kernel, which contains description of the dataset](https://www.kaggle.com/janiobachmann/marketing-in-banking-opening-term-deposits)__
