@@ -1,6 +1,8 @@
 # Bank marketing analysis
 Jupyter notebook containing the analysis of bank marketing campaign data
 
+![article image](https://github.com/Lexie88rus/bank-marketing-analysis/blob/master/rawpixel-594763-unsplash.jpg)
+
 ## Introduction
 Today organizations, which hire data scientists are especially interested in job candidate's portfolio. Analysis of organization's marketing data is one of the most typical applications of data science and machine learning. Such analysis will definetely be a nice contribution to the protfolio.
 In general, datasets which contain marketing data can be used for 2 different business goals:
