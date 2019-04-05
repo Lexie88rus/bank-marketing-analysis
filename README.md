@@ -1,4 +1,4 @@
-# Bank marketing analysis
+# Bank Marketing Analysis
 Jupyter notebook containing the analysis of bank marketing campaign data
 
 ![article image](https://github.com/Lexie88rus/bank-marketing-analysis/blob/master/rawpixel-594763-unsplash.jpg)
